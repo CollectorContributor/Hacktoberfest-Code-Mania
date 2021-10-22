@@ -7,6 +7,7 @@
 * Add various Data Structure/ Algorith related code, with respect to different languages.
 * Creation of Issues and should be mentioned same in PR
 * Please Create seperate folders according to language of code, if certain folder do not exist.
+### Star to the repo will be appriciated.
 
 ## Contributing
 See the [CONTRIBUTING](CONTRIBUTING.md) for more details.
